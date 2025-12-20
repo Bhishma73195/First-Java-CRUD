@@ -50,4 +50,10 @@ Example:
 nd with id: 99"
 }
 <img width="1483" height="885" alt="Screenshot 2025-12-19 171259" src="https://github.com/user-attachments/assets/ff7a3f14-676d-42ef-8214-9533bc821e6f" />
+<img width="1096" height="831" alt="Screenshot 2025-12-20 025445" src="https://github.com/user-attachments/assets/86c36021-f85a-4e42-9edf-3fdab4a24b47" />
+
+<img width="1079" height="784" alt="Screenshot 2025-12-20 025501" src="https://github.com/user-attachments/assets/a180c370-4182-42c6-9f74-dcf95112ad2a"/> 
+<img width="788" height="754" alt="Screenshot 2025-12-20 025608" src="https://github.com/user-attachments/assets/8586dfed-820b-4c63-b07a-c54d8214da1f" />
+<img width="1184" height="732" alt="Screenshot 2025-12-20 025642" src="https://github.com/user-attachments/assets/87174898-3630-411d-90b4-aa914e4a3ba3" />
+<img width="1207" height="686" alt="Screenshot 2025-12-20 025711" src="https://github.com/user-attachments/assets/f47bab7e-1815-434a-abb9-3ff3a492776a" />
 
