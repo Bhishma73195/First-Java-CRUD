@@ -60,4 +60,5 @@ nd with id: 99"
 <img width="1182" height="810" alt="Screenshot 2026-10-19 at 19 50 51" src="https://github.com/user-attachments/assets/5157a29b-6d79-472b-831a-82a6092cf18d" />
 <img width="1265" height="796" alt="Screenshot 2026-10-19 at 19 50 07" src="https://github.com/user-attachments/assets/3590cb5a-5fe1-4d82-b324-d30a1fa3f3ef" />
 <img width="1600" height="940" alt="PHOTO-2026-10-19-20-04-20" src="https://github.com/user-attachments/assets/16099afb-1c39-49d9-80a5-cadc43ad4ab4" />
+<img width="1382" height="852" alt="Screenshot 2026-10-19 at 20 07 51" src="https://github.com/user-attachments/assets/ae689008-ebcd-4c09-98bb-923640d05635" />
 
