@@ -57,4 +57,7 @@ nd with id: 99"
 <img width="788" height="754" alt="Screenshot 2025-12-20 025608" src="https://github.com/user-attachments/assets/8586dfed-820b-4c63-b07a-c54d8214da1f" />
 <img width="1184" height="732" alt="Screenshot 2025-12-20 025642" src="https://github.com/user-attachments/assets/87174898-3630-411d-90b4-aa914e4a3ba3" />
 <img width="1207" height="686" alt="Screenshot 2025-12-20 025711" src="https://github.com/user-attachments/assets/f47bab7e-1815-434a-abb9-3ff3a492776a" />
+<img width="1182" height="810" alt="Screenshot 2026-10-19 at 19 50 51" src="https://github.com/user-attachments/assets/5157a29b-6d79-472b-831a-82a6092cf18d" />
+<img width="1265" height="796" alt="Screenshot 2026-10-19 at 19 50 07" src="https://github.com/user-attachments/assets/3590cb5a-5fe1-4d82-b324-d30a1fa3f3ef" />
+<img width="1600" height="940" alt="PHOTO-2026-10-19-20-04-20" src="https://github.com/user-attachments/assets/16099afb-1c39-49d9-80a5-cadc43ad4ab4" />
 
