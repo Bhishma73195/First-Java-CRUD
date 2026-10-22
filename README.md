@@ -1,5 +1,4 @@
 # First-Java-CRUD
-72564 was there and i did some changes .
 FirstRestAPI – 
 Project Description
 This project is a simple REST API developed using Spring Boot as part of Task 2 for the Spring
